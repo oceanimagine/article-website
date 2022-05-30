@@ -1,5 +1,6 @@
 Follow Code Journey at Youtube
-- https://www.youtube.com/watch?v=-Ak_GHb84dc Part 01
+- https://www.youtube.com/watch?v=-Ak_GHb84dc 
+  Part 01
 - https://www.youtube.com/watch?v=p3OUtvu7Shs Part 02
 - https://www.youtube.com/watch?v=Qnem7Xw1Mdc Part 03
 - https://www.youtube.com/watch?v=aX9iNIw1coE Part 04
