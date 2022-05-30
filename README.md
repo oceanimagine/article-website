@@ -1,4 +1,4 @@
-Follow Code Journey at Youtube
+Follow Code Journey of this project at Youtube
 - Part 01 https://www.youtube.com/watch?v=-Ak_GHb84dc
 - Part 02 https://www.youtube.com/watch?v=p3OUtvu7Shs
 - Part 03 https://www.youtube.com/watch?v=Qnem7Xw1Mdc
