@@ -31,8 +31,8 @@ Source Code for Part 01
 Source Code for Part 06
 - https://drive.google.com/file/d/13H3LSRC-clorqlv8R-o4eYpTB98ZmMva/view?usp=sharing
 
-Sourc Code for Part 21
+Source Code for Part 21
 - https://drive.google.com/file/d/1ZIWJ3OZ9RTvq4lUV8EZBDPwQxWbo238c/view?usp=sharing
 
-Sourc Code for Part 23
+Source Code for Part 23
 - https://drive.google.com/file/d/1bedWONBCI1t5G1fWF2GiIzvif5br7_il/view?usp=sharing
